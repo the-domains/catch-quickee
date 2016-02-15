@@ -1,7 +1,7 @@
 name: Catch Quickee
 favicon: null
-layout_spectrum: 0.6499800365418196
-typography_spectrum: 0.1905758730135858
+layout_spectrum: 0.39047
+typography_spectrum: 0.75881
 title: Catch Quickee
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#010101'
     - '#e61e1f'
   brandStrength: 0.6875
-  lightness: 0.43128787260502577
-  saturation: 0.7923365905880928
-  rhythmicContrast: 0.32761278725229204
+  lightness: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
