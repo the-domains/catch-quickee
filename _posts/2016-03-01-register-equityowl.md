@@ -17,8 +17,8 @@ keywords:
   - trade
   - '2015'
 description: ''
-datePublished: '2016-03-01T13:36:37.456Z'
-dateModified: '2016-03-01T13:24:40.659Z'
+datePublished: '2016-03-01T13:37:09.452Z'
+dateModified: '2016-03-01T13:37:00.431Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Register - EquityOwl</h1><p>Please fill out the form below</p><img src="http://equityowl.com/wp-content/uploads/2016/02/youtube.png" /></article>
+<article style=""><h1>Register - EquityOwl</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66cb62d34590107c110a75317163b5387da72179.png" /></article>
