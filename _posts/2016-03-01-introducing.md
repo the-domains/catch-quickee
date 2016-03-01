@@ -7,23 +7,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T12:07:50.741Z'
-dateModified: '2016-03-01T12:07:33.261Z'
+datePublished: '2016-03-01T13:01:05.850Z'
+dateModified: '2016-03-01T13:00:56.655Z'
 author: []
 title: "\_ \_ \_ \_ \_ \_Introducing"
+sourcePath: _posts/2016-03-01-introducing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-introducing.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Introducing
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1904f7a-03b9-4b4d-a725-09636bf6c652.png)
 
 There is a little bird
