@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.6774194
+  saturation: 0.2329749
   brandStrength: 0.3655914
-  lightness: 0.4856631
+  lightness: 0.4749104
   brandColors:
     - '#fef104'
     - '#00adf1'
     - '#c4996c'
     - '#010101'
     - '#e61e1f'
-  rhythmicContrast: 0.6146954
+  rhythmicContrast: 0.2777778
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Catch Quickee
 favicon: null
+name: Catch Quickee
 opengraph:
   image: null
   type: null
