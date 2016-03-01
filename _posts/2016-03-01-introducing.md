@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-01T13:18:52.126Z'
-dateModified: '2016-03-01T13:18:24.208Z'
+datePublished: '2016-03-01T13:31:30.671Z'
+dateModified: '2016-03-01T13:31:29.162Z'
 author: []
 title: "\_ \_ \_ \_ \_ \_Introducing"
 sourcePath: _posts/2016-03-01-introducing.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1904f7a-03b9-4b4d-a725-09636bf6c652.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70192b1028559af54e03a69fc03a652138d60b13.png)
 
 There is a little bird
 waiting to hatch, but needs a little help to do so, help him spread his wings
