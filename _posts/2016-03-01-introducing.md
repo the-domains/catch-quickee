@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1904f7a-03b9-4b4d-a725-09636bf6c652.png'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-01T13:01:05.850Z'
-dateModified: '2016-03-01T13:00:56.655Z'
+datePublished: '2016-03-01T13:18:52.126Z'
+dateModified: '2016-03-01T13:18:24.208Z'
 author: []
 title: "\_ \_ \_ \_ \_ \_Introducing"
 sourcePath: _posts/2016-03-01-introducing.md
@@ -33,4 +33,6 @@ suave chap.
 
 So
 if you feel like you can handle the egg and help nurture Quickee; pop on over
-to EquityOwl.  http://equityowl.com/active-listings
+to EquityOwl. 
+
+http://equityowl.com/active-listings
