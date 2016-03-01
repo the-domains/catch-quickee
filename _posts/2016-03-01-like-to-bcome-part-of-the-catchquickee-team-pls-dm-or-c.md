@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Like to bcome part of the  @CatchQuickee team!!  Pls DM or contact via @JustEquityOwl  #Apps #Devs #Design #games'
-datePublished: '2016-03-01T13:14:59.605Z'
-dateModified: '2016-03-01T13:14:49.992Z'
+datePublished: '2016-03-01T13:33:11.835Z'
+dateModified: '2016-03-01T13:15:06.789Z'
 author: []
 title: ''
+sourcePath: _posts/2016-03-01-like-to-bcome-part-of-the-catchquickee-team-pls-dm-or-c.md
+published: true
 authors: []
 publisher:
   name: twitter.com
   domain: twitter.com
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-like-to-bcome-part-of-the-catchquickee-team-pls-dm-or-c.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
