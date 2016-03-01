@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://equityowl.com'
-  name: EquityOwl
-  favicon: 'http://equityowl.com/wp-content/uploads/2016/02/fav-57.png'
-  domain: equityowl.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://equityowl.com/project/catch-quickee-a-simple-animated-tapping-game/'
+inLanguage: en
+starred: false
 keywords:
   - equityowl
   - startups
@@ -17,18 +16,21 @@ keywords:
   - 3-5
   - trade
   - '2015'
-description: Please fill out the form below
-inLanguage: en
+description: ''
+datePublished: '2016-03-01T13:21:20.976Z'
+dateModified: '2016-03-01T13:21:16.165Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://equityowl.com/project/catch-quickee-a-simple-animated-tapping-game/'
 title: Register - EquityOwl
-datePublished: '2016-03-01T13:14:00.843Z'
-dateModified: '2016-03-01T11:12:59.277Z'
 sourcePath: _posts/2016-03-01-register-equityowl.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: EquityOwl
+  domain: equityowl.com
+  url: 'http://equityowl.com'
+  favicon: 'http://equityowl.com/wp-content/uploads/2016/02/fav-57.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
