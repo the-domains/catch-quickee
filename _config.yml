@@ -1,41 +1,41 @@
-name: Catch Quickee
-favicon: null
-layout_spectrum: 0.6109
-typography_spectrum: 0.89751
 title: Catch Quickee
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.6875
+  brandStrength: 0
+  rhythmicContrast: 0.5
   brandColors:
     - '#fef104'
     - '#00adf1'
     - '#c4996c'
     - '#010101'
     - '#e61e1f'
-  brandStrength: 0
   lightness: 0.5
-  saturation: 0.6875
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Catch Quickee
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.89751
+layout_spectrum: 0.7616488
