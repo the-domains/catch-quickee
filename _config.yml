@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.6875
+  saturation: 0.5537634
   brandStrength: 0
-  lightness: 0.2491039
+  lightness: 0.6756272
   brandColors:
     - '#fef104'
     - '#00adf1'
     - '#c4996c'
     - '#010101'
     - '#e61e1f'
-  rhythmicContrast: 0.3817204
+  rhythmicContrast: 0.5501792
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Catch Quickee
+favicon: null
 opengraph:
   image: null
   type: null
