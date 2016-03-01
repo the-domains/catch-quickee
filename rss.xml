@@ -4,7 +4,7 @@
         <description><![CDATA[Catch Quickee]]></description>
         <link>http://www.catchquickee.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 16:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 16:04:04 GMT</lastBuildDate>
         <atom:link href="http://www.catchquickee.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -44,13 +44,6 @@ suave chap.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70192
             <link>http://equityowl.com/project/catch-quickee-a-simple-animated-tapping-game/</link>
             <guid isPermaLink="false">5bfcc85c-788e-400a-9bf3-482bf912aa79</guid>
             <pubDate>Tue, 01 Mar 2016 13:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f13a6d-5279-4e6e-bdd8-4fef13a7464e.png">]]></description>
-            <link>https://twitter.com/catchquickee</link>
-            <guid isPermaLink="false">a24b9017-d8ee-4385-b8ca-f690c42e0743</guid>
-            <pubDate>Tue, 01 Mar 2016 13:32:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
