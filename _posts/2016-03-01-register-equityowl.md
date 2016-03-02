@@ -17,8 +17,8 @@ keywords:
   - trade
   - '2015'
 description: ''
-datePublished: '2016-03-01T13:37:09.452Z'
-dateModified: '2016-03-01T13:37:00.431Z'
+datePublished: '2016-03-02T15:58:40.904Z'
+dateModified: '2016-03-02T15:58:05.409Z'
 author: []
 related: []
 app_links: []
@@ -36,3 +36,5 @@ _type: MediaObject
 
 ---
 <article style=""><h1>Register - EquityOwl</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66cb62d34590107c110a75317163b5387da72179.png" /></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05e0e530-d18e-44b4-b9ef-db14dfdf9fa0.png)
